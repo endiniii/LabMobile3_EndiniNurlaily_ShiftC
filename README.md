@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # LabMobile3: Aplikasi Login dengan Flutter
 
 ## Deskripsi
