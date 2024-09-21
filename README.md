@@ -80,13 +80,13 @@ ListTile(
 ## Screenshot Tampilan Aplikasi
 
 ### Halaman Login
-![Login Page](screenshots/login.png)
+![Login Page](login.png)
 
 ### Halaman Home
-![Home Page](screenshots/homepage.png)
+![Home Page](homepage.png)
 
 ### Halaman Dashboard
-![Dashboard Page](screenshots/dashboard.png)
+![Dashboard Page](dashboard.png)
 
 
 
