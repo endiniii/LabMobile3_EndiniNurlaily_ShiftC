@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LabMobile3: Aplikasi Login dengan Flutter
 
 ## Deskripsi
@@ -86,5 +87,6 @@ ListTile(
 
 ### Halaman Dashboard
 ![Dashboard Page](screenshots/dashboard.png)
+
 
 
